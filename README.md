@@ -784,7 +784,7 @@ ax[2].set_ylabel('Prediction')
 plt.show()
 ```
 
-
+![Graphic](img1.png)
     
 
     
