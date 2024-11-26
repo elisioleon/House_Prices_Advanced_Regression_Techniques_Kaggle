@@ -2,7 +2,6 @@
 
 
 
-- We will use the [dataset available on Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
     - We have a database with the **description of each of the columns (data_description.txt)**
 
 
